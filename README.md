@@ -47,6 +47,5 @@ A **Streamlit web app** that predicts an individual’s creditworthiness (Good/B
 | `credit_model.pkl`    | Trained ML pipeline with preprocessing + Random Forest model               |
 | `requirements.txt`    | List of required Python packages to run the app                            |
 | `README.md`           | This documentation file explaining project setup and usage                 |
-| `data/` *(optional)*  | Folder to store any sample or test data if added                          |
 
 
